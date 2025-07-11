@@ -47,12 +47,6 @@
 ---
 
 
-## ผู้พัฒนา
-
-- [scoozmobiii](https://github.com/scoozmobiii)
-
----
-
 ## ขอบคุณ
 
 - ข่าวทั้งหมดนำมาจาก [NewsAPI.org](https://newsapi.org)  
